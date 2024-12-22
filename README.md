@@ -7,17 +7,17 @@ Sales & Finance Analytics Reports
   **1.** Develop a _[Customer Performance Report](https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report_01.pdf)_
   **2.** Conduct an in-depth comparison between _[Market Performance and Sales Targets](https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target_02.pdf)_
 
-- ** Purpose of Sales Analytics:
+-  Purpose of Sales Analytics:
 
         Empower businesses to effectively monitor and evaluate their sales activities and overall performance.
 
-- ** Significance of Analyzing Sales Data:
+-  Significance of Analyzing Sales Data:
 
         Identify key sales patterns.
 	Track critical performance indicators (KPIs).
 	Key Role of Reports:
 
-- ** Recommend optimal customer discounts.
+-  Recommend optimal customer discounts.
 	Facilitate better negotiations with consumers.
 	Highlight business expansion opportunities in promising regions.
 
@@ -30,24 +30,24 @@ Sales & Finance Analytics Reports
   **2.** Generate _[GM% (sub_zone) Quarterly Reports for 2019, 2020, and 2021](https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/GM%25%20(sub_zone)_04.pdf)_
 
 
-- ** Purpose of Finance Analytics:
+-  Purpose of Finance Analytics:
 
 	Evaluate financial performance.
 	Support data-driven decision-making.
 	Enhance communication with stakeholders.
 
-- ** Importance of Analyzing Finance Data:
+-  Importance of Analyzing Finance Data:
 
 	Provide benchmarking against peers and historical performance.
 	Lay the foundation for accurate budgeting and forecasting.
 
-- ** Key Role of Reports:
+-  Key Role of Reports:
 
 	Align financial planning with strategic goals.
 	Strengthen stakeholder confidence in the organization’s financial outlook.
 
 
-- ** Technical Skills
+-  Technical Skills
  	Proficiency in ETL methodology (Extract, Transform, Load).
  	Expertise in generating date tables using Power Query.
  	Ability to derive fiscal months and quarters.
