@@ -1,46 +1,48 @@
-# Excel-Sales-Analytics
+Sales & Finance Analytics Reports
+Sales Report
+Project Objectives:
 
-## Sales Report :
+Develop a Customer Performance Report.
+Conduct an in-depth comparison between Market Performance and Sales Targets.
+Purpose of Sales Analytics:
+Empower businesses to effectively monitor and evaluate their sales activities and overall performance.
 
+Significance of Analyzing Sales Data:
 
-- **Project objective:** 
+Identify key sales patterns.
+Track critical performance indicators (KPIs).
+Key Role of Reports:
 
-    **1.** Create a _[customer performance report](https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report_01.pdf)_
+Recommend optimal customer discounts.
+Facilitate better negotiations with consumers.
+Highlight business expansion opportunities in promising regions.
+Finance Report
+Project Objectives:
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target_02.pdf)_
+Develop a Profit & Loss (P&L) Report for Markets.
+Generate GM% (sub_zone) Quarterly Reports for 2019, 2020, and 2021.
+Purpose of Finance Analytics:
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+Evaluate financial performance.
+Support data-driven decision-making.
+Enhance communication with stakeholders.
+Importance of Analyzing Finance Data:
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Provide benchmarking against peers and historical performance.
+Lay the foundation for accurate budgeting and forecasting.
+Key Role of Reports:
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
-
-## Finance Report :
-
-- **Project objective:** 
-
-    **1.** Create P&L For markets _(https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20(Markets)_03.pdf)_ 
-
-   **2.** Create GM% (sub_zone) Quarterly 2019,20,21 _(https://github.com/rohankakade1096/Excel-Sales-Analytics/blob/main/GM%25%20(sub_zone)_04.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+Align financial planning with strategic goals.
+Strengthen stakeholder confidence in the organization’s financial outlook.
+Technical Skills
+ Proficiency in ETL methodology (Extract, Transform, Load).
+ Expertise in generating date tables using Power Query.
+ Ability to derive fiscal months and quarters.
+ Establishing and managing data model relationships with Power Pivot.
+ Incorporating supplementary data into existing data models.
+ Creating calculated columns using DAX.
+Soft Skills
+ Strong understanding of Sales & Finance Reports.
+ Designing user-focused and intuitive reports.
+ Optimizing report generation with meticulous attention to detail.
+ Developing systematic workflows for streamlined report-building processes.
